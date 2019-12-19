@@ -27,9 +27,18 @@ def second_challenge
         ]
     }
     :capulet => {
-      :patriarch => "Lord Capulet",
-      
-      }}
+      :patriarch => {
+        :name => "Lord Capulet",
+      :age => "50",
+      }
+    :matriarch => "Lady Capulet",
+    :age => "51",
+  }
+  :heroine => {
+    :name => "Juliet"
+  }
+  
+  }
 
   
 end
