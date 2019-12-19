@@ -20,11 +20,15 @@ def second_challenge
           :attitude => "worried",
         },
         {
-          name
+          :name => "Mercutio",
+          :age => "18",
+          :attitude => "hot-headaed",
         }
         ]
+    }
     :capulet => {
-      #your key/value pairs here!
+      :patriarch => "Lord Capulet",
+      
       }}
 
   
